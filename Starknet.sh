@@ -16,4 +16,3 @@ if [ $? -eq 0 ]; then
     echo "StarkNet data fetched and saved to $OUTPUT_DIR/starknet.txt."
 else
     echo "Failed to fetch StarkNet data."
-fi
